@@ -6,7 +6,7 @@ const Loading = () => {
 		<div className="loader">
 			<div className="svg-wrapper">
 				<img
-					src="https://i.pinimg.com/originals/02/68/10/026810ea26db996dbf4ecceb8a3c0715.png"
+					src="https://preview.redd.it/lwwt86ci5anz.jpg?width=1080&crop=smart&auto=webp&s=0992e7b263674b295f8d260e0fb4d1852dbf6985"
 					alt="Loading..."
 					className="loading-img"
 				/>
